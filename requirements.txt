@@ -1,0 +1,9 @@
+pytest>=8,<10
+python-dotenv>=1,<2
+langchain>=1,<2
+langgraph>=1,<2
+langchain-openai>=1,<2
+langchain-google-genai>=4,<5
+langchain-anthropic>=1,<2
+langchain-ollama>=1,<2
+langchain-openrouter>=0.2,<1
